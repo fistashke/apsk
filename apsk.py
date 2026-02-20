@@ -14,7 +14,7 @@ from typing import Optional
 
 # --- НАСТРОЙКИ ---
 TOKEN = "8438685814:AAEvrbY14BSa0Hg6b3iq6GR1Q1nsxIopydo"  # ВСТАВЬ СЮДА ТОКЕН!
-ADMIN_IDS = [7985423843, 987654321]  # ВСТАВЬТЕ ID АДМИНОВ ЧЕРЕЗ ЗАПЯТУЮ
+ADMIN_IDS = [7985423843, 7330788297]  # ВСТАВЬТЕ ID АДМИНОВ ЧЕРЕЗ ЗАПЯТУЮ
 CHANNEL_LINK = "https://t.me/apsk_clan"  # ССЫЛКА НА КАНАЛ С ПРАВИЛАМИ
 CLAN_NAME = "APSK"
 # -----------------
@@ -601,3 +601,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
